@@ -1,0 +1,25 @@
+{
+  "name": "Golden Fiber · جولدن فايبر",
+  "short_name": "Golden Fiber",
+  "description": "Golden Fiber – handmade banana-fibre homeware, organic liquid fertilizer and B2B banana-fibre materials from Egypt.",
+  "id": "/goldenfiber/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "background_color": "#FFFFFF",
+  "theme_color": "#1E5A2A",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["shopping", "business", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Products · المنتجات", "url": "./index.html#shop" },
+    { "name": "B2B", "url": "./index.html#b2b" },
+    { "name": "Contact · تواصل", "url": "./index.html#contact" }
+  ]
+}
